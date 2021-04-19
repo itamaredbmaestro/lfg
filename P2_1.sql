@@ -1,5 +1,4 @@
-CREATE OR REPLACE PROCEDURE P1_2 AS 
-BEGIN
-  NULL;
-END P1_2asdasdasd;
-/
+create or replace function PUBLIC.test_func()
+  returns float
+  as '4::FLOAT'
+  ;

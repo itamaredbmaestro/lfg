@@ -1,5 +1,1 @@
-CREATE OR REPLACE PROCEDURE P1_2 AS asd
-BEGIN
-  NULL;
-END P1_2;
-/
+drop function PUBLIC.test_func();
