@@ -3,3 +3,4 @@ create or replace function PUBLIC.test_func()
   as '6::FLOAT'
   ;
 
+
